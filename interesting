@@ -1,0 +1,4 @@
+1. if the price change more then 10% from yesterday
+2. if the price change more then 15% from last week
+3. if the price changed more then 20% from last month
+4. if the price changed more than 30% from 3 month
